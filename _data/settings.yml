@@ -1,0 +1,35 @@
+#-------------------------------
+# General Site Settings
+title: Julian Dynamics
+logo: logo.svg # You can add own logo.
+description: Julian Dynamics innovates in the space of cloud security.
+
+
+#-------------------------------
+# Author Settings
+author:
+  name: Julian Dynamics
+  image: 01.jpg
+  say-hello: Cloud Security is <strong>challenging.</strong>
+  bio: <strong>Julian Dynamics</strong> builds solutions in the areas of incident response, kubernetes security, security observability, and security engineering training.  
+
+
+#-------------------------------
+# Contact links
+
+
+#-------------------------------
+# Comment Section (Disqus)
+
+
+#-------------------------------
+# Instagram Feed
+
+
+#-------------------------------
+# Google Analytics
+
+
+#-------------------------------
+# Newsletter
+mailchimp: # Add your MailChimp form identifier. For example - blogenjoyfreedom.us16.list-manage.com/subscribe/post?u=cd56155d76ddeeb4c0bc4d080&amp;id=7a526cd13e
